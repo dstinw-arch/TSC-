@@ -1,0 +1,7 @@
+{
+  "name": "3 Line Leave Express",
+  "description": "A streamlined leave management system designed for Line integration, featuring leave tracking, deputy notifications, and manager approvals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
